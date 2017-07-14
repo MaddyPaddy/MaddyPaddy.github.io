@@ -1,0 +1,20 @@
+header {
+  height: 80px;
+  background: maroon;
+  text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+body{
+  background: silver;
+}
+
+img{
+  height: 190px;
+  float: right;
+}
+
+p{
+  color: maroon
+}
